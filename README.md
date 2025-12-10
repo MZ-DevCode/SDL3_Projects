@@ -1,2 +1,2 @@
 # SDL3_Projects
-My progress in learning SDL3 library
+A collection of projects and code samples showcasing my progress in learning the cross-platform Simple DirectMedia Layer (SDL3) library in C++.
